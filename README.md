@@ -1,10 +1,11 @@
-<h1 align="center">Hi there! 👋 I'm Camila Jimenez Mendoza</h1>
+<h1 align="center">Hi there! I'm Camila Jimenez Mendoza</h1>
 
 <p align="center">
 Fullstack Development | AI and ML| UX/UI Design 
+</p>
+<p align="center">
 Zapopan, Mexico 
 </p>
-
 ---
 
 ### About Me
