@@ -6,6 +6,7 @@ Fullstack Development | AI and ML| UX/UI Design
 <p align="center">
 Zapopan, Mexico 
 </p>
+
 ---
 
 ### About Me
