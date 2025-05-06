@@ -53,6 +53,7 @@ App to improve food donation logistics at Banco de Alimentos Guadalajara.
 - Created backend with Nodemailer for automatic email alerts
 
 🔗 [GitHub Repo](https://github.com/CamJMend/Reda)
+🔗 [GitHub Repo](https://github.com/CamJMend/reda_back)
 
 ---
 
@@ -75,7 +76,7 @@ Computer vision tool for automated residential access control.
 - Detected license plates using YOLO + OCR
 - Created local database access system with SQLite
 
-🔗 [GitHub Repo](https://github.com/CamJMend/placas-coto)
+🔗 [GitHub Repo](https://github.com/CamJMend/placas_coto)
 
 ---
 
