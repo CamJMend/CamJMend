@@ -11,7 +11,7 @@ Zapopan, Mexico
 
 ### About Me
 
-I'm a student of Technology and Computer Engineering at Tecnológico de Monterrey. I'm passionate about creating tech that solves real problems — from AI systems for license plate detection to fullstack platforms for social impact.
+I'm a student of Technology and Computer Engineering at Tecnológico de Monterrey. I'm passionate about creating tech that solves real problems 
 
 I’ve participated in hackathons, accelerators, and innovation programs where I’ve gained experience in:
 - Fullstack development (frontend + backend)
